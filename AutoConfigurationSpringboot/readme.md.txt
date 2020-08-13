@@ -1,0 +1,1 @@
+It is a example of spring boot application auto-configured made purely using java web services.

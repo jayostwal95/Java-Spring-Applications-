@@ -1,0 +1,1 @@
+This project is spring application using REST services which performs CRUD operations using the database mysql.
